@@ -72,7 +72,7 @@
             this.buttonListKad.Name = "buttonListKad";
             this.buttonListKad.Size = new System.Drawing.Size(263, 54);
             this.buttonListKad.TabIndex = 3;
-            this.buttonListKad.Text = "Список кадетов";
+            this.buttonListKad.Text = "Общий учет кадетов";
             this.buttonListKad.UseVisualStyleBackColor = true;
             this.buttonListKad.Click += new System.EventHandler(this.buttonListKad_Click);
             // 
@@ -89,7 +89,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Частный кадетский колледж";
+            this.Text = "Меню";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
